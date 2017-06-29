@@ -1,7 +1,7 @@
 # Machine Learning from scratch with **R, Python and Matlab**
 
 ## Descriptions
-I implement Random Forest, Softmax Resgession, Deep Neural Network, Convolutional Neural Network, Recurrent Neural Network to classify MNIST hand digit images from scratch. Most of methods are implemented in R. 
+I implement Random Forest, Softmax Resgession, Deep Neural Network, Convolutional Neural Network, Recurrent Neural Network to classify MNIST hand digit images from scratch. Most of methods are implemented in [R language](https://www.r-project.org/about.html). 
 
 ## Data
 You can download MNIST data in here: https://www.kaggle.com/c/digit-recognizer
